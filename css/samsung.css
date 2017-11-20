@@ -290,9 +290,11 @@ header>.header_wrap>nav>ul>li:hover .li_wrap {
 .li_wrap ul.li2_nav li {
     float: left;
     width: 12.5%;
+    line-height: 1em;
 }
 
-.li_wrap ul.li2_nav li a div {
+.li_wrap ul.li2_nav li a span {
+    display: inline-block;
     width: 50px;
     height: 50px;
     background: #000;
