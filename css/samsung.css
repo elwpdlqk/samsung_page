@@ -285,12 +285,19 @@ header>.header_wrap>nav>ul>li:hover .li_wrap {
 .li_wrap ul.li2_nav {
     overflow: hidden;
     text-align: center;
+    background: #fff;
+    border-bottom: 5px solid #dbdbdb;
 }
 
 .li_wrap ul.li2_nav li {
     float: left;
     width: 12.5%;
+    height: 120px;
     line-height: 1em;
+    padding: 10px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 .li_wrap ul.li2_nav li a span {
