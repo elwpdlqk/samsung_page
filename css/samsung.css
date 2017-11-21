@@ -300,11 +300,99 @@ header>.header_wrap>nav>ul>li:hover .li_wrap {
     box-sizing: border-box;
 }
 
+.li_wrap ul.li2_nav li a {
+    color: #000;
+}
+
 .li_wrap ul.li2_nav li a span {
     display: inline-block;
-    width: 50px;
-    height: 50px;
+    width: 70px;
+    height: 45px;
     background: url(../img_sam/gnb_icon2.png);
+}
+
+.li_wrap ul.li2_nav li:nth-child(1) a span {
+    background-position: -335px 0;
+}
+.li_wrap ul.li2_nav li:nth-child(2) a span {
+    background-position: -401px 0;
+}
+.li_wrap ul.li2_nav li:nth-child(3) a span {
+    background-position: -467px 0;
+}
+.li_wrap ul.li2_nav li:nth-child(4) a span {
+    background-position: -335px -90px;
+}
+.li_wrap ul.li2_nav li:nth-child(5) a span {
+    background-position: -400px -90px;
+}
+.li_wrap ul.li2_nav li:nth-child(6) a span {
+    background-position: -467px -90px;
+}
+.li_wrap ul.li2_nav li:nth-child(7) a span {
+    background-position: -0px -140px;
+}
+.li_wrap ul.li2_nav li:nth-child(8) a span {
+    background-position: -70px -140px;
+}
+.li_wrap ul.li2_nav li:nth-child(9) a span {
+    background-position: -133px -140px;
+}
+.li_wrap ul.li2_nav li:nth-child(10) a span {
+    background-position: -200px -140px;
+}
+.li_wrap ul.li2_nav li:nth-child(11) a span {
+    background-position: -265px -140px;
+}
+.li_wrap ul.li2_nav li:nth-child(12) a span {
+    background-position: -335px -190px;
+}
+.li_wrap ul.li2_nav li:nth-child(13) a span {
+    background-position: -200px -94px;
+}
+
+.li_wrap ul.li2_nav li:hover a {
+    color: #0F80D1;
+}
+
+.li_wrap ul.li2_nav li:nth-child(1):hover a span {
+    background-position: -335px -47px;
+}
+.li_wrap ul.li2_nav li:nth-child(2):hover a span {
+    background-position: -401px -47px;
+}
+.li_wrap ul.li2_nav li:nth-child(3):hover a span {
+    background-position: -467px -47px;
+}
+.li_wrap ul.li2_nav li:nth-child(4):hover a span {
+    background-position: -335px -137px;
+}
+.li_wrap ul.li2_nav li:nth-child(5):hover a span {
+    background-position: -400px -137px;
+}
+.li_wrap ul.li2_nav li:nth-child(6):hover a span {
+    background-position: -467px -137px;
+}
+.li_wrap ul.li2_nav li:nth-child(7):hover a span {
+    background-position: 0px -187px;
+}
+.li_wrap ul.li2_nav li:nth-child(8):hover a span {
+    background-position: -70px -187px;
+}
+.li_wrap ul.li2_nav li:nth-child(9):hover a span {
+    background-position: -133px -187px;
+}
+.li_wrap ul.li2_nav li:nth-child(10):hover a span {
+    background-position: -200px -187px;
+}
+.li_wrap ul.li2_nav li:nth-child(11):hover a span {
+    background-position: -265px -187px;
+}
+.li_wrap ul.li2_nav li:nth-child(12):hover a span {
+    background-position: -401px -190px;
+}
+.li_wrap ul.li2_nav li:nth-child(13):hover a span {
+    background-position: -267px -94px;
 }
 
 
