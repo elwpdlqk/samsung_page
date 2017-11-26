@@ -309,6 +309,7 @@ header>.header_wrap>nav>ul>li:hover .li_wrap {
     width: 70px;
     height: 45px;
     background: url(../img_sam/gnb_icon2.png);
+    margin-bottom: 10px;
 }
 
 .li_wrap ul.li2_nav li:nth-child(1) a span {
